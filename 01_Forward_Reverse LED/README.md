@@ -39,3 +39,7 @@ Output
 
 Circuit Proteus
 ![Circuit](<output_image.png>)
+
+Output 
+
+![Circuit](output_image-1.png)
