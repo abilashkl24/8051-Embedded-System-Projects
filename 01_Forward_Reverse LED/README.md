@@ -38,4 +38,4 @@ This project helps to understand **GPIO output control, LED interfacing, time de
 Output
 
 Circuit Proteus
-![Circuit](<Screenshot 2026-09-17 224154.png>)
+![Circuit](<output_image.png>)
