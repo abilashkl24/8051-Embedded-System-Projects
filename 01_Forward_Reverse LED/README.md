@@ -6,7 +6,6 @@ This project demonstrates the **Forward and Reverse LED control using the 8051 m
 
 * AT89C51 / 8051 Microcontroller
 * 8 LEDs
-* Resistors
 * Proteus 8
 * Keil uVision
 
