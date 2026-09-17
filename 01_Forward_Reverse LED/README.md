@@ -35,4 +35,7 @@ The program automatically controls two LEDs to indicate the direction.
 
 This project helps to understand **GPIO output control, LED interfacing, time delay, and basic direction-control logic using Embedded C and the 8051 microcontroller.**
 
+Output
+
+Circuit Proteus
 ![Circuit](<Screenshot 2026-09-17 224154.png>)
