@@ -53,3 +53,6 @@ Circuit Image
 
 ## Output 
 ![Image](<lcd_switch_ status_output_1.png>)
+
+## Output
+![Image](<lcd_switch_ status_output_2.png>)
