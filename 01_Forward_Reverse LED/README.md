@@ -34,3 +34,5 @@ The program automatically controls two LEDs to indicate the direction.
 **Forward → Stop → Reverse → Stop → Repeat**
 
 This project helps to understand **GPIO output control, LED interfacing, time delay, and basic direction-control logic using Embedded C and the 8051 microcontroller.**
+
+![Circuit](<Screenshot 2026-09-17 224154.png>)
