@@ -48,7 +48,7 @@ The LCD is updated continuously based on the current switch status.
 This project helps to understand **switch interfacing, LCD interfacing, digital input handling, and displaying real-time status using Embedded C on the 8051 microcontroller**.
 
 ## Output 
-Circuit Image 
+## Circuit Image 
 ![Image](<lcd_switch _status_circuit.png>)
 
 ## Output 
