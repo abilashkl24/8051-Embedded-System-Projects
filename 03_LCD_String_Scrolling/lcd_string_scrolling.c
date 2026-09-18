@@ -1,6 +1,6 @@
 #include <reg51.h>
 
-#define lcd_data P2
+#define lcd P2
 
 sbit rs=P0^0;
 sbit rw=P0^1;
@@ -24,7 +24,7 @@ void lcd_init()
 
 void cmd(unsigned char a)
 {
-    lcd_data=a;
+    lcd = a;
     rs=0;
     rw=0;
     en=1;
@@ -34,7 +34,7 @@ void cmd(unsigned char a)
 
 void dat(unsigned char b) 
 {
-    lcd_data=b;
+    lcd = b;
     rs=1;
     rw=0;
     en=1;
