@@ -7,7 +7,7 @@ This project demonstrates **switch interfacing with an LCD using the 8051 microc
 * AT89C51 / 8051 Microcontroller
 * 16×2 LCD
 * Push Button / Switch
-* Resistor
+* Pull Up Resistor
 * Proteus 8
 * Keil uVision
 
