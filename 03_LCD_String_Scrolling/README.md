@@ -98,3 +98,6 @@ This project provides practical understanding of **LCD interfacing, 8051 GPIO co
 **ABILASH S**
 
 Embedded Systems | Embedded C | 8051 | PIC | ESP32
+
+## Circuit Image
+![Image](Circuit_Image.png)
