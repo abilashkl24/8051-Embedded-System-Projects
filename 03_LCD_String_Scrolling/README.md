@@ -88,6 +88,8 @@ Port 0 requires external pull-up resistors because it does not have internal pul
 |   KERALAM      |
 +----------------+
 ```
+## Circuit Image
+![Image](Circuit_Image.png)
 
 ## Learning Outcome
 
@@ -99,6 +101,5 @@ This project provides practical understanding of **LCD interfacing, 8051 GPIO co
 
 Embedded Systems | Embedded C | 8051 | PIC | ESP32
 
-## Circuit Image
-![Image](Circuit_Image.png)
+
 
